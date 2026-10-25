@@ -43,3 +43,6 @@ Calm deep ocean at night. Everything that matters emits light.
 - Does it use only palette colors?
 - Is it still readable in grayscale?
 - Can it be understood at its native size?
+
+![arena](arena.png)
+![arena](sprites.png)
