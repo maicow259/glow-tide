@@ -1,0 +1,18 @@
+:root{
+    --abyss-color: #0b1020;
+}
+
+body{
+    margin: 0;
+    background-color: var(--abyss-color);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#game-container {
+    width: 640px;
+    height: 360px;
+    background-color: #14284b;
+}
